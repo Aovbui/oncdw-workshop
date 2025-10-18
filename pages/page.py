@@ -8,7 +8,7 @@ Created on Mon Sep 22 14:32:51 2025
 import streamlit as st
 
 st.title('Hello, Streamlit! 👋')
-st.write('Welcome to my :red[first] web app!')
+st.write('Welcome to my :blue[first] web app!')
 
 
 
